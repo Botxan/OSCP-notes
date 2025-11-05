@@ -1,0 +1,14 @@
+{
+  "accentColor": "#39c2ed",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "center-images"
+  ]
+}
