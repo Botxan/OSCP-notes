@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "99 - Meta/00 - Attachments"
+  "attachmentFolderPath": "99 - Meta/00 - Attachments",
+  "alwaysUpdateLinks": true
 }

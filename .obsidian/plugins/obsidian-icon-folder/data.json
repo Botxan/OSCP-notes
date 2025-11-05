@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiLink",
-      "FabWindows",
-      "SiLinux",
-      "FasGear",
-      "⚙"
+      "LiDatabase",
+      "TiWorldWww",
+      "TiTool",
+      "TiProtocol",
+      "LiLink"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,7 +35,11 @@
     "useInternalPlugins": false
   },
   "99 - Meta": "FasGear",
-  "01 - Linux": "SiLinux",
-  "02 - Windows": "FabWindows",
-  "98 - External Resources": "LiLink"
+  "98 - External Resources": "LiLink",
+  "05 - Tools": "TiTool",
+  "01 - Protocols and Services": "TiProtocol",
+  "03 - Windows": "FabWindows",
+  "04 - Web": "TiWorldWww",
+  "02 - Linux": "SiLinux",
+  "00 - General Knowledge": "LiDatabase"
 }

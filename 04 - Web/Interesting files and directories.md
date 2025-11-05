@@ -1,0 +1,2 @@
+- /robots.txt: directories and files not to be indexed.
+- /sitemap.xml: directories to be indexed.

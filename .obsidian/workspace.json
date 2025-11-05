@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9234a2b33762187",
+        "id": "9ddd5ca74769128a",
         "type": "tabs",
         "children": [
           {
-            "id": "8e272bd1ea385ce7",
+            "id": "088444f91d38ba4f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,12 +74,22 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "da9b20e8756bf056",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316.5
   },
   "right": {
     "id": "950825dc0def0e8e",
@@ -97,6 +107,20 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "f6b13bde7ff554f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -122,18 +146,51 @@
   },
   "active": "f305a475d0a65201",
   "lastOpenFiles": [
-    "README.md",
-    "99 - Meta/02 - Attachments/twitter_thumb_201604_image.png",
+    "05 - Tools/fierce.md",
+    "05 - Tools/Meterpreter.md",
+    "05 - Tools/Msfvenom.md",
+    "05 - Tools/Nessus.md",
+    "05 - Tools/netdiscover.md",
+    "05 - Tools/sublist3r.md",
+    "05 - Tools/theHarvester.md",
+    "05 - Tools/wafwoof.md",
+    "05 - Tools/Wmap.md",
+    "05 - Tools/SMBClient.md",
+    "05 - Tools/Searchsploit.md",
+    "05 - Tools/rpcclient.md",
+    "05 - Tools/PsExec.md",
+    "05 - Tools/Ping.md",
+    "05 - Tools/Nmap.md",
+    "05 - Tools/Mimikatz.md",
+    "05 - Tools/Metasploit.md",
+    "05 - Tools/Fping.md",
+    "05 - Tools/dnsrecon.md",
+    "05 - Tools/Enum4Linux.md",
+    "05 - Tools/dnsenum.md",
+    "05 - Tools/dig.md",
+    "05 - Tools/Crackmapexec.md",
+    "04 - Web/SSRF.md",
+    "04 - Web/XSS.md",
+    "04 - Web/LFI-RFI.md",
+    "99 - Meta/00 - Attachments/Pasted image 20250226143435.png",
+    "99 - Meta/00 - Attachments/Pasted image 20250225220444.png",
+    "99 - Meta/00 - Attachments/Pasted image 20250225203939.png",
+    "99 - Meta/00 - Attachments/Pasted image 20250225203414.png",
+    "99 - Meta/00 - Attachments/Pasted image 20250218115053.png",
+    "99 - Meta/00 - Attachments/Pasted image 20250218111617.png",
+    "99 - Meta/00 - Attachments/Pasted image 20250217112335.png",
+    "99 - Meta/00 - Attachments/Pasted image 20250216190733.png",
+    "99 - Meta/00 - Attachments/Pasted image 20251013132335.png",
+    "99 - Meta/00 - Attachments/Pasted image 20250209183624.png",
+    "00 - General Knowledge",
+    "06 - Techniques",
+    "04 - Web",
     "99 - Meta/02 - Attachments",
     "98 - External Resources",
-    "02 - Windows",
-    "01 - Linux/Untitled.md",
-    "01 - Linux",
+    "03 - Windows",
+    "02 - Linux",
     "Windows",
     "99 - Meta/04 - Excalidraw",
-    "99 - Meta/00 - Attachments",
-    "Untitled.md",
-    "99 - Meta",
-    "Welcome.md"
+    "99 - Meta/00 - Attachments"
   ]
 }

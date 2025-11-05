@@ -1,0 +1,4 @@
+- Lightweight telnet-replacement developed by Microsoft that allows you execute processes on remote windows systems using any user’s credentials.
+- PsExec authentication is performed via SMB.
+- We can use the PsExec utility to authenticate with the target system legitimately and run arbitrary commands or launch a remote command prompt.
+- It is very similar to RDP, however, instead of controlling the remote system via GUI, commands are sent via CMD.
