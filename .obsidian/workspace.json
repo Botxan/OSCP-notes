@@ -11,10 +11,15 @@
             "id": "088444f91d38ba4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 - Windows/Privilege Escalation/(EJPTv2) Privilege escalation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "(EJPTv2) Privilege escalation"
             }
           }
         ]
@@ -89,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 436.5
   },
   "right": {
     "id": "950825dc0def0e8e",
@@ -146,6 +151,28 @@
   },
   "active": "f305a475d0a65201",
   "lastOpenFiles": [
+    "03 - Windows/Privilege Escalation/Abusing vulnerable software.md",
+    "03 - Windows/Privilege Escalation/Abuse Dangerous Privileges.md",
+    "03 - Windows/Privilege Escalation/(EJPTv2) Privilege escalation.md",
+    "03 - Windows/🏠 Index.md",
+    "03 - Windows/Privilege Escalation/Procedure.md",
+    "03 - Windows/Privilege Escalation/Use automated scripts.md",
+    "98 - External Resources/Windows Privilege Escalation.md",
+    "99 - Meta/00 - Attachments/Pasted image 20251106110431.png",
+    "99 - Meta/00 - Attachments/Pasted image 20251106090733.png",
+    "99 - Meta/00 - Attachments/Pasted image 20251106090442.png",
+    "99 - Meta/00 - Attachments/89e74e14454edc10fa2bd541ac359772 1.png",
+    "99 - Meta/00 - Attachments/89e74e14454edc10fa2bd541ac359772.png",
+    "99 - Meta/00 - Attachments/Pasted image 20251106085521.png",
+    "99 - Meta/00 - Attachments/Pasted image 20251106084947.png",
+    "99 - Meta/00 - Attachments/Pasted image 20251106073912.png",
+    "99 - Meta/00 - Attachments/Pasted image 20251106073706.png",
+    "99 - Meta/00 - Attachments/Pasted image 20251106073256.png",
+    "03 - Windows/Privilege Escalation/Exploit Windows Services via Service Control Manager (SCM).md",
+    "03 - Windows/Privilege Escalation/Windows Users.md",
+    "03 - Windows/Privilege Escalation/Harvest Passwords from Usual Spots.md",
+    "03 - Windows/Privilege Escalation/Untitled",
+    "03 - Windows/Privilege Escalation",
     "05 - Tools/fierce.md",
     "05 - Tools/Meterpreter.md",
     "05 - Tools/Msfvenom.md",
@@ -162,26 +189,6 @@
     "05 - Tools/Ping.md",
     "05 - Tools/Nmap.md",
     "05 - Tools/Mimikatz.md",
-    "05 - Tools/Metasploit.md",
-    "05 - Tools/Fping.md",
-    "05 - Tools/dnsrecon.md",
-    "05 - Tools/Enum4Linux.md",
-    "05 - Tools/dnsenum.md",
-    "05 - Tools/dig.md",
-    "05 - Tools/Crackmapexec.md",
-    "04 - Web/SSRF.md",
-    "04 - Web/XSS.md",
-    "04 - Web/LFI-RFI.md",
-    "99 - Meta/00 - Attachments/Pasted image 20250226143435.png",
-    "99 - Meta/00 - Attachments/Pasted image 20250225220444.png",
-    "99 - Meta/00 - Attachments/Pasted image 20250225203939.png",
-    "99 - Meta/00 - Attachments/Pasted image 20250225203414.png",
-    "99 - Meta/00 - Attachments/Pasted image 20250218115053.png",
-    "99 - Meta/00 - Attachments/Pasted image 20250218111617.png",
-    "99 - Meta/00 - Attachments/Pasted image 20250217112335.png",
-    "99 - Meta/00 - Attachments/Pasted image 20250216190733.png",
-    "99 - Meta/00 - Attachments/Pasted image 20251013132335.png",
-    "99 - Meta/00 - Attachments/Pasted image 20250209183624.png",
     "00 - General Knowledge",
     "06 - Techniques",
     "04 - Web",
@@ -189,8 +196,6 @@
     "98 - External Resources",
     "03 - Windows",
     "02 - Linux",
-    "Windows",
-    "99 - Meta/04 - Excalidraw",
-    "99 - Meta/00 - Attachments"
+    "Windows"
   ]
 }

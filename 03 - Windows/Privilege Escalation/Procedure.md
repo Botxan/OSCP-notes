@@ -1,0 +1,5 @@
+1. [[Harvest Passwords from Usual Spots]]
+2. [[Exploit Windows Services via Service Control Manager (SCM)]]
+3. [[Abuse Dangerous Privileges]]
+4. [[Abusing vulnerable software]]
+5. [[Use automated scripts]]

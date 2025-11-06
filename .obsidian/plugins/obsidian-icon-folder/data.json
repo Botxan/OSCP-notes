@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasListOl",
       "LiDatabase",
       "TiWorldWww",
       "TiTool",
-      "TiProtocol",
-      "LiLink"
+      "TiProtocol"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "03 - Windows": "FabWindows",
   "04 - Web": "TiWorldWww",
   "02 - Linux": "SiLinux",
-  "00 - General Knowledge": "LiDatabase"
+  "00 - General Knowledge": "LiDatabase",
+  "03 - Windows/Privilege Escalation/Procedure.md": "FasListOl"
 }
