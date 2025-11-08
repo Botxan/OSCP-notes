@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9ddd5ca74769128a",
+        "id": "d51768b545c06b57",
         "type": "tabs",
         "children": [
           {
-            "id": "088444f91d38ba4f",
+            "id": "3a1aaf2e552b8c72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Windows/Privilege Escalation/(EJPTv2) Privilege escalation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(EJPTv2) Privilege escalation"
+              "title": "New tab"
             }
           }
         ]
@@ -132,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 656.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,27 +144,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f305a475d0a65201",
+  "active": "b5e5a3cc541ad699",
   "lastOpenFiles": [
-    "03 - Windows/Privilege Escalation/Abusing vulnerable software.md",
-    "03 - Windows/Privilege Escalation/Abuse Dangerous Privileges.md",
-    "03 - Windows/Privilege Escalation/(EJPTv2) Privilege escalation.md",
-    "03 - Windows/🏠 Index.md",
-    "03 - Windows/Privilege Escalation/Procedure.md",
-    "03 - Windows/Privilege Escalation/Use automated scripts.md",
-    "98 - External Resources/Windows Privilege Escalation.md",
+    "04 - Web/JWT.md",
+    "99 - Meta/00 - Attachments/Pasted image 20251107175832.png",
+    "99 - Meta/00 - Attachments/Captura de pantalla 2025-11-07 175017.png",
     "99 - Meta/00 - Attachments/Pasted image 20251106110431.png",
-    "99 - Meta/00 - Attachments/Pasted image 20251106090733.png",
-    "99 - Meta/00 - Attachments/Pasted image 20251106090442.png",
+    "99 - Meta/00 - Attachments/Pasted image 20251107174810.png",
+    "99 - Meta/00 - Attachments/Pasted image 20251107174747.png",
+    "99 - Meta/00 - Attachments/W19gHwL.png",
     "99 - Meta/00 - Attachments/89e74e14454edc10fa2bd541ac359772 1.png",
     "99 - Meta/00 - Attachments/89e74e14454edc10fa2bd541ac359772.png",
-    "99 - Meta/00 - Attachments/Pasted image 20251106085521.png",
-    "99 - Meta/00 - Attachments/Pasted image 20251106084947.png",
-    "99 - Meta/00 - Attachments/Pasted image 20251106073912.png",
-    "99 - Meta/00 - Attachments/Pasted image 20251106073706.png",
-    "99 - Meta/00 - Attachments/Pasted image 20251106073256.png",
     "03 - Windows/Privilege Escalation/Exploit Windows Services via Service Control Manager (SCM).md",
+    "03 - Windows/Privilege Escalation/Use automated scripts.md",
+    "03 - Windows/Privilege Escalation/Procedure.md",
     "03 - Windows/Privilege Escalation/Windows Users.md",
+    "04 - Web/Google Dorks.md",
+    "04 - Web/Interesting files and directories.md",
+    "03 - Windows/Privilege Escalation/(EJPTv2) Privilege escalation.md",
+    "03 - Windows/Privilege Escalation/Abusing vulnerable software.md",
+    "03 - Windows/Privilege Escalation/Abuse Dangerous Privileges.md",
+    "03 - Windows/🏠 Index.md",
+    "98 - External Resources/Windows Privilege Escalation.md",
+    "99 - Meta/00 - Attachments/Pasted image 20251106090733.png",
+    "99 - Meta/00 - Attachments/Pasted image 20251106090442.png",
     "03 - Windows/Privilege Escalation/Harvest Passwords from Usual Spots.md",
     "03 - Windows/Privilege Escalation/Untitled",
     "03 - Windows/Privilege Escalation",
@@ -185,10 +183,6 @@
     "05 - Tools/SMBClient.md",
     "05 - Tools/Searchsploit.md",
     "05 - Tools/rpcclient.md",
-    "05 - Tools/PsExec.md",
-    "05 - Tools/Ping.md",
-    "05 - Tools/Nmap.md",
-    "05 - Tools/Mimikatz.md",
     "00 - General Knowledge",
     "06 - Techniques",
     "04 - Web",

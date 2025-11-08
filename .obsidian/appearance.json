@@ -10,6 +10,8 @@
   "enabledCssSnippets": [
     "Colored Sidebar Items",
     "center-images",
-    "callouts"
+    "callouts",
+    "inline-code-color",
+    "spacing-between-list-items"
   ]
 }
