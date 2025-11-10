@@ -11,10 +11,15 @@
             "id": "3a1aaf2e552b8c72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Web/SQLInjection.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SQLInjection"
             }
           }
         ]
@@ -115,19 +120,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 - Web/SQLInjection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of SQLInjection"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 656.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,8 +150,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b5e5a3cc541ad699",
+  "active": "3a1aaf2e552b8c72",
   "lastOpenFiles": [
+    "06 - Boxes/TryHackMe.md",
+    "06 - Boxes/HackTheBox.md",
+    "06 - Boxes/Untitled",
+    "04 - Web/SQLInjection.md",
+    "06 - Boxes/HackTheBox",
+    "06 - Boxes/TryHackMe",
+    "06 - Boxes",
+    "99 - Meta/00 - Attachments/Pasted image 20251108215928.png",
+    "99 - Meta/00 - Attachments/Pasted image 20251108215040.png",
+    "04 - Web/XSS.md",
+    "04 - Web/SSRF.md",
+    "04 - Web/LFI-RFI.md",
     "04 - Web/JWT.md",
     "99 - Meta/00 - Attachments/Pasted image 20251107175832.png",
     "99 - Meta/00 - Attachments/Captura de pantalla 2025-11-07 175017.png",
@@ -166,8 +184,6 @@
     "03 - Windows/Privilege Escalation/Abuse Dangerous Privileges.md",
     "03 - Windows/🏠 Index.md",
     "98 - External Resources/Windows Privilege Escalation.md",
-    "99 - Meta/00 - Attachments/Pasted image 20251106090733.png",
-    "99 - Meta/00 - Attachments/Pasted image 20251106090442.png",
     "03 - Windows/Privilege Escalation/Harvest Passwords from Usual Spots.md",
     "03 - Windows/Privilege Escalation/Untitled",
     "03 - Windows/Privilege Escalation",
@@ -178,18 +194,9 @@
     "05 - Tools/netdiscover.md",
     "05 - Tools/sublist3r.md",
     "05 - Tools/theHarvester.md",
-    "05 - Tools/wafwoof.md",
-    "05 - Tools/Wmap.md",
-    "05 - Tools/SMBClient.md",
-    "05 - Tools/Searchsploit.md",
-    "05 - Tools/rpcclient.md",
     "00 - General Knowledge",
     "06 - Techniques",
     "04 - Web",
-    "99 - Meta/02 - Attachments",
-    "98 - External Resources",
-    "03 - Windows",
-    "02 - Linux",
-    "Windows"
+    "99 - Meta/02 - Attachments"
   ]
 }

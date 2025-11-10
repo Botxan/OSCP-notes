@@ -50,6 +50,8 @@ OKc
 Ou
 Obb
 OA
+Out
+OUTFILE
 notes
 names
 network
@@ -116,6 +118,7 @@ nO
 nIg
 nq
 never
+newline
 My
 Misconfigured
 Metasploit
@@ -272,6 +275,8 @@ ff
 fK
 fdGO
 freely
+false
+feed
 the
 tags
 takes
@@ -390,6 +395,9 @@ tJ
 tL
 tx
 too
+true
+tmp
+terminate
 preparation
 phase
 place
@@ -568,6 +576,8 @@ puuK
 ppp
 pQ
 pt
+produce
+php
 date
 discovery
 dorks
@@ -741,6 +751,7 @@ GRLz
 GO
 Gg
 GE
+GET
 additional
 about
 after
@@ -905,6 +916,9 @@ aaa
 azJ
 asymmetric
 app
+authorization
+author
+alternativa
 information
 including
 ine
@@ -1033,6 +1047,8 @@ iQXZ
 indicate
 intended
 invalidate
+id
+isset
 hosts
 host
 help
@@ -1111,6 +1127,7 @@ huh
 hG
 hIeeFz
 hr
+horizontal
 systems
 services
 scanning
@@ -1341,6 +1358,7 @@ signing
 symmetric
 single
 serves
+ssn
 Account
 Assessment
 Attacks
@@ -1443,6 +1461,9 @@ AZ
 AS
 Ap
 Algorithm
+AND
+Avoid
+Allowed
 Shares
 Show
 Same
@@ -1561,6 +1582,8 @@ Symmetric
 Secrets
 Save
 Similar
+SELECT
+Spaces
 This
 Token
 TOMCAT
@@ -1644,6 +1667,8 @@ TXX
 TaQ
 Td
 TcNB
+TRUE
+Tab
 of
 only
 or
@@ -1738,6 +1763,7 @@ ojjjbb
 oGFv
 oyn
 oYY
+operators
 Involves
 Information
 IIS
@@ -1836,6 +1862,10 @@ IJy
 IMMML
 IHH
 Iwo
+Inferential
+IF
+INSERT
+INTO
 engaging
 employees
 ensuring
@@ -1963,6 +1993,8 @@ ee
 edd
 expire
 enforcement
+email
+else
 with
 webpage
 within
@@ -2227,6 +2259,9 @@ Eb
 Ew
 EDDTT
 EEE
+Error
+EXEC
+END
 com
 contain
 cybersecurity
@@ -2420,6 +2455,13 @@ cQ
 cW
 crack
 claim
+condition
+conn
+class
+cmdshell
+casing
+construct
+carriage
 but
 best
 by
@@ -2509,6 +2551,10 @@ bO
 bk
 brC
 bkk
+band
+book
+bcp
+breaking
 url
 unavailability
 use
@@ -2656,6 +2702,8 @@ FGMv
 FR
 Fm
 FxW
+FROM
+Filter
 version
 various
 very
@@ -2706,6 +2754,7 @@ vh
 vvv
 vJ
 verified
+versus
 Networking
 Network
 NIST
@@ -2829,6 +2878,7 @@ HK
 HOO
 Hashcat
 HS
+Hexadecimal
 Vulnerability
 VSFTPD
 Vulnerabilities
@@ -2874,6 +2924,7 @@ VQQ
 Vm
 Vi
 Vn
+VALUES
 Based
 Breach
 Brute
@@ -2936,6 +2987,8 @@ BGN
 Be
 Bkv
 BvZ
+Blind
+BEGIN
 Windows
 WEBDAV
 WINRM
@@ -2992,6 +3045,8 @@ WWW
 WX
 WGua
 WBW
+WHERE
+WAITFOR
 RDP
 Respond
 Recover
@@ -3090,6 +3145,10 @@ RTTD
 RM
 RO
 Relay
+REQ
+RESP
+REQUEST
+RESPONSE
 Privilege
 Payloads
 Post
@@ -3186,6 +3245,8 @@ Py
 Pv
 PR
 PW
+Premium
+POST
 Kernel
 Key
 Kali
@@ -3238,6 +3299,7 @@ Km
 KV
 Kc
 KR
+Keywords
 UAC
 Union
 Upload
@@ -3298,6 +3360,9 @@ UL
 UF
 Ue
 Uu
+UNION
+UTL
+Unicode
 Credential
 Cron
 CLEARING
@@ -3380,6 +3445,8 @@ CB
 CBVx
 CGO
 Confusion
+Comments
+CONCAT
 Dumping
 Default
 DUMP
@@ -3466,6 +3533,8 @@ Djm
 Dn
 DX
 Downgrade
+DELAY
+DECLARE
 Linux
 Local
 Legal
@@ -3664,6 +3733,7 @@ gv
 gA
 gC
 gvK
+green
 manage
 monitoring
 management
@@ -3785,6 +3855,7 @@ mt
 mkk
 mistakes
 modified
+manipulates
 reduce
 risk
 risks
@@ -3919,6 +3990,11 @@ rV
 rpt
 recover
 role
+real
+red
+req
+resp
+replace
 XSS
 XML
 Xmas
@@ -4036,6 +4112,8 @@ qIT
 qqq
 qV
 qS
+queryout
+quotes
 xml
 xyz
 xfreerdp
@@ -4059,6 +4137,7 @@ xD
 xx
 xM
 xR
+xp
 you
 your
 year
@@ -4195,6 +4274,8 @@ QFF
 QH
 QKKK
 QEUU
+QUERY
+Quote
 Yes
 You
 YL

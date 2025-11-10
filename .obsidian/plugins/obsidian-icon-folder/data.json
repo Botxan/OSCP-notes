@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiHackthebox",
+      "SiTryhackme",
+      "LiServer",
       "FasListOl",
-      "LiDatabase",
-      "TiWorldWww",
-      "TiTool",
-      "TiProtocol"
+      "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,8 @@
   "04 - Web": "TiWorldWww",
   "02 - Linux": "SiLinux",
   "00 - General Knowledge": "LiDatabase",
-  "03 - Windows/Privilege Escalation/Procedure.md": "FasListOl"
+  "03 - Windows/Privilege Escalation/Procedure.md": "FasListOl",
+  "06 - Boxes": "LiServer",
+  "06 - Boxes/TryHackMe.md": "SiTryhackme",
+  "06 - Boxes/HackTheBox.md": "SiHackthebox"
 }
